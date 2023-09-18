@@ -193,8 +193,3 @@ int print_rot13string(va_list types, char buffer[],
 
 
 
-
-
-
-
-
